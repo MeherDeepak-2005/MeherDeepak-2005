@@ -4,7 +4,7 @@ ML Engineer, Hyderabad. I work the full stack of a machine learning product:
 training, the services that run inference, and the front end on top.
 
 B.Sc. Computer Science at BITS Pilani (online) and BBA in AI & Data Science at
-ICFAI, on campus. Kaggle Top 2%. [Resume](resume.pdf)
+ICFAI, on campus. [Resume](resume.pdf)
 
 ### Projects
 
@@ -34,7 +34,7 @@ Tech: PyTorch, CLIP, timm
 **Languages:** Python, Java, Swift, Kotlin, Go, JavaScript/TypeScript, PHP, MATLAB
 **ML:** PyTorch, scikit-learn, LLM training and fine-tuning, reinforcement learning, quantization, Core ML
 **Web & Mobile:** React, React Native, Next.js, SwiftUI, micro frontends, Firebase, Vercel
-**Systems & Data:** microservices, Kafka, NATS, Docker, Kubernetes, PostgreSQL, TimescaleDB, MongoDB, Elasticsearch
+**Systems & Data:** Microservices, Micro-Frontends, Apache Kafka, NATS, Docker, Kubernetes, PostgreSQL, TimescaleDB, MongoDB, Elasticsearch, Redis
 
 ### Links
 
