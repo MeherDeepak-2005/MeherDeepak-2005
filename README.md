@@ -31,10 +31,13 @@ Tech: PyTorch, CLIP, timm
 
 ### Tech Stack
 
-- **Languages:** Python, Java, Swift, Kotlin, Go, JavaScript/TypeScript, PHP, MATLAB
-- **ML:** PyTorch, scikit-learn, LLM training and fine-tuning, reinforcement learning, quantization, Core ML
+- **Languages:** Python, Java, Swift, Kotlin, Go, JavaScript/TypeScript, PHP, MATLAB, CUDA
+- **ML:** PyTorch, TensorFlow, JAX, Flax, scikit-learn, XGBoost, Hugging Face Transformers, NumPy, pandas
+- **Training:** LoRA/PEFT, SFT and DPO, DeepSpeed, FSDP, Accelerate, Ray, mixed precision, distributed training
+- **Inference:** vLLM, ONNX Runtime, TensorRT, Triton, Core ML, quantization, distillation, KV caching
+- **MLOps:** Weights & Biases, MLflow, Airflow, model registries, drift monitoring
 - **Web & Mobile:** React, React Native, Next.js, SwiftUI, micro frontends, Firebase, Vercel
-- **Systems & Data:** Microservices, Apache Kafka, NATS, Docker, Kubernetes, PostgreSQL, TimescaleDB, MongoDB, Elasticsearch, Redis
+- **Systems & Data:** Microservices, gRPC, Apache Kafka, NATS, Docker, Kubernetes, PostgreSQL, TimescaleDB, MongoDB, Elasticsearch, Redis
 
 ### Links
 
