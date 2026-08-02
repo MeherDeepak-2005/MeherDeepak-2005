@@ -31,10 +31,10 @@ Tech: PyTorch, CLIP, timm
 
 ### Tech Stack
 
-**Languages:** Python, Java, Swift, Kotlin, Go, JavaScript/TypeScript, PHP, MATLAB
-**ML:** PyTorch, scikit-learn, LLM training and fine-tuning, reinforcement learning, quantization, Core ML
-**Web & Mobile:** React, React Native, Next.js, SwiftUI, micro frontends, Firebase, Vercel
-**Systems & Data:** Microservices, Micro-Frontends, Apache Kafka, NATS, Docker, Kubernetes, PostgreSQL, TimescaleDB, MongoDB, Elasticsearch, Redis
+- **Languages:** Python, Java, Swift, Kotlin, Go, JavaScript/TypeScript, PHP, MATLAB
+- **ML:** PyTorch, scikit-learn, LLM training and fine-tuning, reinforcement learning, quantization, Core ML
+- **Web & Mobile:** React, React Native, Next.js, SwiftUI, micro frontends, Firebase, Vercel
+- **Systems & Data:** Microservices, Micro-Frontends, Apache Kafka, NATS, Docker, Kubernetes, PostgreSQL, TimescaleDB, MongoDB, Elasticsearch, Redis
 
 ### Links
 
